@@ -7,7 +7,7 @@ Developed a professional product presentation scene in Unreal Engine 5 to showca
 
 ##### Completed Features
 
-    * Studio Environment \& Lighting
+    * Studio Environment & Lighting
     * Designed a dedicated studio scene for product visualization.
     * Configured a professional lighting setup to achieve clean illumination, realistic reflections, and balanced shadows.
     * Optimized the scene for Unreal Engine 5's Lumen global illumination.
